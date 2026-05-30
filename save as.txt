@@ -133,7 +133,7 @@ tailwind.config={theme:{extend:{colors:{'pink-brand':'#e91e8c','pink-light':'#fc
 <script>
 // ===================== CONFIG =====================
 const SUPABASE_URL = 'https://ngqsawugvzuxaelabfqu.supabase.co';
-const SUPABASE_KEY = 'sb_publishable_G7omrGJzmi0aDmVhepfB9Q_V8C0c3Ld';
+const SUPABASE_KEY = 'eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJzdXBhYmFzZSIsInJlZiI6Im5ncXNhd3Vndnp1eGFlbGFiZnF1Iiwicm9sZSI6ImFub24iLCJpYXQiOjE3Nzg1Njg1NTMsImV4cCI6MjA5NDE0NDU1M30.AKjn0JGy5-0rHnefLdMn6Oel7_Z88G_wjyVkstuQt0U';
 const sb = window.supabase.createClient(SUPABASE_URL, SUPABASE_KEY);
 
 // ===================== STATE =====================
